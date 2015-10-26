@@ -1,0 +1,6 @@
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 4. Text Filter\bin\Debug\Problem_4.Text_Filter.exe.config
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 4. Text Filter\bin\Debug\Problem_4.Text_Filter.exe
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 4. Text Filter\bin\Debug\Problem_4.Text_Filter.pdb
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 4. Text Filter\obj\Debug\Problem 4. Text Filter.csprojResolveAssemblyReference.cache
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 4. Text Filter\obj\Debug\Problem_4.Text_Filter.exe
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 4. Text Filter\obj\Debug\Problem_4.Text_Filter.pdb

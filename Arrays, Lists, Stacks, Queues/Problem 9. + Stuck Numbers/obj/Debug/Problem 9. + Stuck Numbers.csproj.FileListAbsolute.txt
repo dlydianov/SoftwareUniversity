@@ -1,0 +1,5 @@
+E:\SoftUni\Homeworks\Mine\advanced\Arrays, Lists, Stacks, Queues\Problem 9. + Stuck Numbers\bin\Debug\Problem_9.__Stuck_Numbers.exe.config
+E:\SoftUni\Homeworks\Mine\advanced\Arrays, Lists, Stacks, Queues\Problem 9. + Stuck Numbers\bin\Debug\Problem_9.__Stuck_Numbers.exe
+E:\SoftUni\Homeworks\Mine\advanced\Arrays, Lists, Stacks, Queues\Problem 9. + Stuck Numbers\bin\Debug\Problem_9.__Stuck_Numbers.pdb
+E:\SoftUni\Homeworks\Mine\advanced\Arrays, Lists, Stacks, Queues\Problem 9. + Stuck Numbers\obj\Debug\Problem_9.__Stuck_Numbers.exe
+E:\SoftUni\Homeworks\Mine\advanced\Arrays, Lists, Stacks, Queues\Problem 9. + Stuck Numbers\obj\Debug\Problem_9.__Stuck_Numbers.pdb

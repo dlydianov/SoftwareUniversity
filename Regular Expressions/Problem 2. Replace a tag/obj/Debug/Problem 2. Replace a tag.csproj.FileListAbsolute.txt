@@ -1,0 +1,6 @@
+E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 2. Replace a tag\bin\Debug\Problem_2.Replace_a_tag.exe.config
+E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 2. Replace a tag\bin\Debug\Problem_2.Replace_a_tag.exe
+E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 2. Replace a tag\bin\Debug\Problem_2.Replace_a_tag.pdb
+E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 2. Replace a tag\obj\Debug\Problem 2. Replace a tag.csprojResolveAssemblyReference.cache
+E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 2. Replace a tag\obj\Debug\Problem_2.Replace_a_tag.exe
+E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 2. Replace a tag\obj\Debug\Problem_2.Replace_a_tag.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 2. String Length\bin\Debug\Problem_2.String_Length.exe.config
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 2. String Length\bin\Debug\Problem_2.String_Length.exe
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 2. String Length\bin\Debug\Problem_2.String_Length.pdb
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 2. String Length\obj\Debug\Problem_2.String_Length.exe
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 2. String Length\obj\Debug\Problem_2.String_Length.pdb
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 2. String Length\obj\Debug\Problem 2. String Length.csprojResolveAssemblyReference.cache

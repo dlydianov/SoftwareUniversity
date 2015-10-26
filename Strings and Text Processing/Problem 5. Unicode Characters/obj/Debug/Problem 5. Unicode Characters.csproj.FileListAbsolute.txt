@@ -1,0 +1,6 @@
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 5. Unicode Characters\bin\Debug\Problem_5.Unicode_Characters.exe.config
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 5. Unicode Characters\bin\Debug\Problem_5.Unicode_Characters.exe
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 5. Unicode Characters\bin\Debug\Problem_5.Unicode_Characters.pdb
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 5. Unicode Characters\obj\Debug\Problem_5.Unicode_Characters.exe
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 5. Unicode Characters\obj\Debug\Problem_5.Unicode_Characters.pdb
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 5. Unicode Characters\obj\Debug\Problem 5. Unicode Characters.csprojResolveAssemblyReference.cache

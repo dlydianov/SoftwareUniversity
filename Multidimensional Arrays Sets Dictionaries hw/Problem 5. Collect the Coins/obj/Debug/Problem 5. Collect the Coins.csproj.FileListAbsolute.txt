@@ -1,0 +1,6 @@
+E:\SoftUni\Homeworks\Mine\advanced\Multidimensional Arrays Sets Dictionaries hw\Problem 5. Collect the Coins\bin\Debug\Problem_5.Collect_the_Coins.exe.config
+E:\SoftUni\Homeworks\Mine\advanced\Multidimensional Arrays Sets Dictionaries hw\Problem 5. Collect the Coins\obj\Debug\Problem 5. Collect the Coins.csprojResolveAssemblyReference.cache
+E:\SoftUni\Homeworks\Mine\advanced\Multidimensional Arrays Sets Dictionaries hw\Problem 5. Collect the Coins\bin\Debug\Problem_5.Collect_the_Coins.exe
+E:\SoftUni\Homeworks\Mine\advanced\Multidimensional Arrays Sets Dictionaries hw\Problem 5. Collect the Coins\bin\Debug\Problem_5.Collect_the_Coins.pdb
+E:\SoftUni\Homeworks\Mine\advanced\Multidimensional Arrays Sets Dictionaries hw\Problem 5. Collect the Coins\obj\Debug\Problem_5.Collect_the_Coins.exe
+E:\SoftUni\Homeworks\Mine\advanced\Multidimensional Arrays Sets Dictionaries hw\Problem 5. Collect the Coins\obj\Debug\Problem_5.Collect_the_Coins.pdb

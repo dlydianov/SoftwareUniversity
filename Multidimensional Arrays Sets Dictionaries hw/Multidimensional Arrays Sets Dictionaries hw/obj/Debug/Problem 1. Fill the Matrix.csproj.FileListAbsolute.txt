@@ -1,0 +1,6 @@
+E:\SoftUni\Homeworks\Mine\advanced\Multidimensional Arrays Sets Dictionaries hw\Multidimensional Arrays Sets Dictionaries hw\bin\Debug\Multidimensional Arrays Sets Dictionaries hw.exe.config
+E:\SoftUni\Homeworks\Mine\advanced\Multidimensional Arrays Sets Dictionaries hw\Multidimensional Arrays Sets Dictionaries hw\bin\Debug\Multidimensional Arrays Sets Dictionaries hw.exe
+E:\SoftUni\Homeworks\Mine\advanced\Multidimensional Arrays Sets Dictionaries hw\Multidimensional Arrays Sets Dictionaries hw\bin\Debug\Multidimensional Arrays Sets Dictionaries hw.pdb
+E:\SoftUni\Homeworks\Mine\advanced\Multidimensional Arrays Sets Dictionaries hw\Multidimensional Arrays Sets Dictionaries hw\obj\Debug\Multidimensional Arrays Sets Dictionaries hw.exe
+E:\SoftUni\Homeworks\Mine\advanced\Multidimensional Arrays Sets Dictionaries hw\Multidimensional Arrays Sets Dictionaries hw\obj\Debug\Multidimensional Arrays Sets Dictionaries hw.pdb
+E:\SoftUni\Homeworks\Mine\advanced\Multidimensional Arrays Sets Dictionaries hw\Multidimensional Arrays Sets Dictionaries hw\obj\Debug\Problem 1. Fill the Matrix.csprojResolveAssemblyReference.cache

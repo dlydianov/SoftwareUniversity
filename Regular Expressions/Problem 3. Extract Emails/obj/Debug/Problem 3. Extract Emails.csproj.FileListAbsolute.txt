@@ -1,0 +1,5 @@
+E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 3. Extract Emails\bin\Debug\Problem_3.Extract_Emails.exe.config
+E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 3. Extract Emails\bin\Debug\Problem_3.Extract_Emails.exe
+E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 3. Extract Emails\bin\Debug\Problem_3.Extract_Emails.pdb
+E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 3. Extract Emails\obj\Debug\Problem_3.Extract_Emails.exe
+E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 3. Extract Emails\obj\Debug\Problem_3.Extract_Emails.pdb

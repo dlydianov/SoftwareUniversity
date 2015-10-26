@@ -1,0 +1,6 @@
+E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 4. Sentence Extractor\bin\Debug\Problem_4.Sentence_Extractor.exe.config
+E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 4. Sentence Extractor\bin\Debug\Problem_4.Sentence_Extractor.exe
+E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 4. Sentence Extractor\bin\Debug\Problem_4.Sentence_Extractor.pdb
+E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 4. Sentence Extractor\obj\Debug\Problem 4. Sentence Extractor.csprojResolveAssemblyReference.cache
+E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 4. Sentence Extractor\obj\Debug\Problem_4.Sentence_Extractor.exe
+E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 4. Sentence Extractor\obj\Debug\Problem_4.Sentence_Extractor.pdb

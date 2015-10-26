@@ -1,0 +1,6 @@
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 6. Palindromes\bin\Debug\Problem_6.Palindromes.exe.config
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 6. Palindromes\bin\Debug\Problem_6.Palindromes.exe
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 6. Palindromes\bin\Debug\Problem_6.Palindromes.pdb
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 6. Palindromes\obj\Debug\Problem 6. Palindromes.csprojResolveAssemblyReference.cache
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 6. Palindromes\obj\Debug\Problem_6.Palindromes.exe
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 6. Palindromes\obj\Debug\Problem_6.Palindromes.pdb

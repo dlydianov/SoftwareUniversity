@@ -1,0 +1,1 @@
+E:\SoftUni\Homeworks\Mine\advanced\Arrays, Lists, Stacks, Queues\Problem 2. Sort Array of Numbers Using Selection Sort\bin\Debug\Problem_2.Sort_Array_of_Numbers_Using_Selection_Sort.exe.config

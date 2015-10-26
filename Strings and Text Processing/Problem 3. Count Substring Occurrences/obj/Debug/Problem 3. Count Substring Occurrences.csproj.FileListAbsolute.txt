@@ -1,0 +1,6 @@
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 3. Count Substring Occurrences\bin\Debug\Problem_3.Count_Substring_Occurrences.exe.config
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 3. Count Substring Occurrences\bin\Debug\Problem_3.Count_Substring_Occurrences.exe
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 3. Count Substring Occurrences\bin\Debug\Problem_3.Count_Substring_Occurrences.pdb
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 3. Count Substring Occurrences\obj\Debug\Problem 3. Count Substring Occurrences.csprojResolveAssemblyReference.cache
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 3. Count Substring Occurrences\obj\Debug\Problem_3.Count_Substring_Occurrences.exe
+E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Problem 3. Count Substring Occurrences\obj\Debug\Problem_3.Count_Substring_Occurrences.pdb

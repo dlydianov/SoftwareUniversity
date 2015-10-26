@@ -1,0 +1,6 @@
+E:\SoftUni\Homeworks\Mine\advanced\Multidimensional Arrays Sets Dictionaries hw\Problem 2. Maximal Sum\bin\Debug\Problem_2.Maximal_Sum.exe.config
+E:\SoftUni\Homeworks\Mine\advanced\Multidimensional Arrays Sets Dictionaries hw\Problem 2. Maximal Sum\bin\Debug\Problem_2.Maximal_Sum.exe
+E:\SoftUni\Homeworks\Mine\advanced\Multidimensional Arrays Sets Dictionaries hw\Problem 2. Maximal Sum\bin\Debug\Problem_2.Maximal_Sum.pdb
+E:\SoftUni\Homeworks\Mine\advanced\Multidimensional Arrays Sets Dictionaries hw\Problem 2. Maximal Sum\obj\Debug\Problem 2. Maximal Sum.csprojResolveAssemblyReference.cache
+E:\SoftUni\Homeworks\Mine\advanced\Multidimensional Arrays Sets Dictionaries hw\Problem 2. Maximal Sum\obj\Debug\Problem_2.Maximal_Sum.exe
+E:\SoftUni\Homeworks\Mine\advanced\Multidimensional Arrays Sets Dictionaries hw\Problem 2. Maximal Sum\obj\Debug\Problem_2.Maximal_Sum.pdb
