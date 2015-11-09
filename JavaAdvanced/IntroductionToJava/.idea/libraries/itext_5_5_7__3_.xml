@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="itext-5.5.7 (3)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/itext-5.5.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

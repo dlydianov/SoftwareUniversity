@@ -1,0 +1,2 @@
+cd C:\Users\Simooo\Documents\Visual Studio 2013\Projects\Java\IntroductionToJava\src
+java SumTwoNumbers

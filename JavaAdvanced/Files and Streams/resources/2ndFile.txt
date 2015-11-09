@@ -1,0 +1,7 @@
+This is the next phase
+of the work where need
+to use a ZipStream to 
+zip 3 text files together.
+This file is one of them. 
+If you decided to read it 
+you just lost your time. 

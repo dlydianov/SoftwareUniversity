@@ -1,0 +1,7 @@
+Hello, my name 
+is Simeon and 
+this is my homework.
+I am going to show 
+you how to read from 
+a text file and sum 
+the ASCII symbols.
