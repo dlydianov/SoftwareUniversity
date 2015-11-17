@@ -1,5 +1,3 @@
-package Plus;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -7,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by Frost on 28/10/2015.
  */
-public class Remove {
+class Remove {
     public static void main(String[] args) {
         Scanner Console = new Scanner(System.in);
         List<char[]> list = new ArrayList<>();
