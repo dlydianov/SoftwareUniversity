@@ -1,0 +1,6 @@
+E:\SoftUni\Object-Oriented-Programming\Defining Classes\Defining Classes\bin\Debug\Defining Classes.exe.config
+E:\SoftUni\Object-Oriented-Programming\Defining Classes\Defining Classes\bin\Debug\Defining Classes.exe
+E:\SoftUni\Object-Oriented-Programming\Defining Classes\Defining Classes\bin\Debug\Defining Classes.pdb
+E:\SoftUni\Object-Oriented-Programming\Defining Classes\Defining Classes\obj\Debug\Defining Classes.csprojResolveAssemblyReference.cache
+E:\SoftUni\Object-Oriented-Programming\Defining Classes\Defining Classes\obj\Debug\Defining Classes.exe
+E:\SoftUni\Object-Oriented-Programming\Defining Classes\Defining Classes\obj\Debug\Defining Classes.pdb
