@@ -1,6 +1,0 @@
-E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\+ Problem 7. Letters change Numbers\obj\Debug\Problem 7. + Letters change Numbers.csprojResolveAssemblyReference.cache
-E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\+ Problem 7. Letters change Numbers\bin\Debug\__Problem_7.Letters_change_Numbers.exe.config
-E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\+ Problem 7. Letters change Numbers\bin\Debug\__Problem_7.Letters_change_Numbers.exe
-E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\+ Problem 7. Letters change Numbers\bin\Debug\__Problem_7.Letters_change_Numbers.pdb
-E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\+ Problem 7. Letters change Numbers\obj\Debug\__Problem_7.Letters_change_Numbers.exe
-E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\+ Problem 7. Letters change Numbers\obj\Debug\__Problem_7.Letters_change_Numbers.pdb

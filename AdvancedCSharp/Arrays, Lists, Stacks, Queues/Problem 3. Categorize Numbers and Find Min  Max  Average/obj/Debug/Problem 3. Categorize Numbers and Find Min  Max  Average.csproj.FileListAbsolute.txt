@@ -1,6 +1,0 @@
-E:\SoftUni\Homeworks\Mine\advanced\Arrays, Lists, Stacks, Queues\Problem 3. Categorize Numbers and Find Min  Max  Average\bin\Debug\Problem_3.Categorize_Numbers_and_Find_Min__Max__Average.exe.config
-E:\SoftUni\Homeworks\Mine\advanced\Arrays, Lists, Stacks, Queues\Problem 3. Categorize Numbers and Find Min  Max  Average\bin\Debug\Problem_3.Categorize_Numbers_and_Find_Min__Max__Average.exe
-E:\SoftUni\Homeworks\Mine\advanced\Arrays, Lists, Stacks, Queues\Problem 3. Categorize Numbers and Find Min  Max  Average\bin\Debug\Problem_3.Categorize_Numbers_and_Find_Min__Max__Average.pdb
-E:\SoftUni\Homeworks\Mine\advanced\Arrays, Lists, Stacks, Queues\Problem 3. Categorize Numbers and Find Min  Max  Average\obj\Debug\Problem_3.Categorize_Numbers_and_Find_Min__Max__Average.exe
-E:\SoftUni\Homeworks\Mine\advanced\Arrays, Lists, Stacks, Queues\Problem 3. Categorize Numbers and Find Min  Max  Average\obj\Debug\Problem_3.Categorize_Numbers_and_Find_Min__Max__Average.pdb
-E:\SoftUni\Homeworks\Mine\advanced\Arrays, Lists, Stacks, Queues\Problem 3. Categorize Numbers and Find Min  Max  Average\obj\Debug\Problem 3. Categorize Numbers and Find Min  Max  Average.csprojResolveAssemblyReference.cache

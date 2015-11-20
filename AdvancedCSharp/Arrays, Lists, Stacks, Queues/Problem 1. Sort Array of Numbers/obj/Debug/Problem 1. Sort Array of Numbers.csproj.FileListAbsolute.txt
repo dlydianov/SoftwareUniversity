@@ -1,6 +1,0 @@
-E:\SoftUni\Homeworks\Mine\advanced\Arrays, Lists, Stacks, Queues\Problem 1. Sort Array of Numbers\bin\Debug\Problem_1.Sort_Array_of_Numbers.exe.config
-E:\SoftUni\Homeworks\Mine\advanced\Arrays, Lists, Stacks, Queues\Problem 1. Sort Array of Numbers\bin\Debug\Problem_1.Sort_Array_of_Numbers.exe
-E:\SoftUni\Homeworks\Mine\advanced\Arrays, Lists, Stacks, Queues\Problem 1. Sort Array of Numbers\bin\Debug\Problem_1.Sort_Array_of_Numbers.pdb
-E:\SoftUni\Homeworks\Mine\advanced\Arrays, Lists, Stacks, Queues\Problem 1. Sort Array of Numbers\obj\Debug\Problem_1.Sort_Array_of_Numbers.exe
-E:\SoftUni\Homeworks\Mine\advanced\Arrays, Lists, Stacks, Queues\Problem 1. Sort Array of Numbers\obj\Debug\Problem_1.Sort_Array_of_Numbers.pdb
-E:\SoftUni\Homeworks\Mine\advanced\Arrays, Lists, Stacks, Queues\Problem 1. Sort Array of Numbers\obj\Debug\Problem 1. Sort Array of Numbers.csprojResolveAssemblyReference.cache

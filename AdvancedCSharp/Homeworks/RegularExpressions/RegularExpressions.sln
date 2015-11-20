@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. SeriesOfLetters", "01. SeriesOfLetters\01. SeriesOfLetters.csproj", "{1E4E3A3C-8183-49E7-8459-C3441B31215C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceHTMLTag", "ReplaceHTMLTag\ReplaceHTMLTag.csproj", "{E346023C-AF8B-43CC-9519-AD3121D792AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. ExtractEmails", "03. ExtractEmails\03. ExtractEmails.csproj", "{0A0E290C-684C-4CB2-BB77-2D0E1ABB2531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. SentenceExtractor", "04. SentenceExtractor\04. SentenceExtractor.csproj", "{D14EA17A-BF06-4DBF-B84C-1F5AB243CE9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. ValidUsernames", "05. ValidUsernames\05. ValidUsernames.csproj", "{10ECAF98-617B-46DD-8A44-EC949AF3D32D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. ExtractHyprelinks", "06. ExtractHyprelinks\06. ExtractHyprelinks.csproj", "{33DA1827-555A-4752-BA81-B6D9E1EBA9BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E4E3A3C-8183-49E7-8459-C3441B31215C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4E3A3C-8183-49E7-8459-C3441B31215C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4E3A3C-8183-49E7-8459-C3441B31215C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4E3A3C-8183-49E7-8459-C3441B31215C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E346023C-AF8B-43CC-9519-AD3121D792AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E346023C-AF8B-43CC-9519-AD3121D792AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E346023C-AF8B-43CC-9519-AD3121D792AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E346023C-AF8B-43CC-9519-AD3121D792AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A0E290C-684C-4CB2-BB77-2D0E1ABB2531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0E290C-684C-4CB2-BB77-2D0E1ABB2531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0E290C-684C-4CB2-BB77-2D0E1ABB2531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0E290C-684C-4CB2-BB77-2D0E1ABB2531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14EA17A-BF06-4DBF-B84C-1F5AB243CE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14EA17A-BF06-4DBF-B84C-1F5AB243CE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14EA17A-BF06-4DBF-B84C-1F5AB243CE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14EA17A-BF06-4DBF-B84C-1F5AB243CE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10ECAF98-617B-46DD-8A44-EC949AF3D32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10ECAF98-617B-46DD-8A44-EC949AF3D32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10ECAF98-617B-46DD-8A44-EC949AF3D32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10ECAF98-617B-46DD-8A44-EC949AF3D32D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33DA1827-555A-4752-BA81-B6D9E1EBA9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DA1827-555A-4752-BA81-B6D9E1EBA9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DA1827-555A-4752-BA81-B6D9E1EBA9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DA1827-555A-4752-BA81-B6D9E1EBA9BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,6 +1,0 @@
-E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 1. Series of Letters\bin\Debug\Problem_1.Series_of_Letters.exe.config
-E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 1. Series of Letters\bin\Debug\Problem_1.Series_of_Letters.exe
-E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 1. Series of Letters\bin\Debug\Problem_1.Series_of_Letters.pdb
-E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 1. Series of Letters\obj\Debug\Problem 1. Series of Letters.csprojResolveAssemblyReference.cache
-E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 1. Series of Letters\obj\Debug\Problem_1.Series_of_Letters.exe
-E:\SoftUni\Homeworks\Mine\advanced\Regular Expressions\Problem 1. Series of Letters\obj\Debug\Problem_1.Series_of_Letters.pdb

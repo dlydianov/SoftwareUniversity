@@ -1,0 +1,109 @@
+.pdf
+--academycard7023402.pdf - 47.41kb
+--Конференция в АМВР.pdf - 218.34kb
+--npss_176_pokana_nositeli_ss.pdf - 865.83kb
+--pomagalo_NMP_chast_1.pdf - 2877.81kb
+--pomagalo_NMP_chast_2.pdf - 3016.38kb
+--pomagalo_GPP_final_chast_1.pdf - 3064.58kb
+--pomagalo_GPP_final_chast_2.pdf - 3069.30kb
+--pomagalo_NPP_prokurori_last_chast_2.pdf - 3110.05kb
+--pomagalo_NPP_prokurori_last_chast_1.pdf - 3148.97kb
+--pomagalo_GMP_last_Chast_2.pdf - 3276.00kb
+--pomagalo_GMP_last_Chast_1.pdf - 3286.29kb
+--How to Get Rich.pdf - 3919.59kb
+--Enetpulse-NL-June-2015.pdf - 4225.15kb
+--101_Chess_Opening_Surprises_(Gambit_chess)_by_Graham_Burgess.pdf - 15546.92kb
+--head first c#.pdf - 30593.39kb
+.mp4
+--video-1431445914.mp4.mp4 - 4129.99kb
+--1 - 10 - 3.5 Other Value Types (5-41).mp4 - 8416.89kb
+--1 - 6 - 3.1 Bits and Bytes (6-15).mp4 - 8743.28kb
+--1 - 5 - 2.2 Commenting and You (8-57).mp4 - 12619.02kb
+--2 - 4 - 4.4 Designing a Class (9-03).mp4 - 12814.49kb
+--1 - 4 - 2.1 Your First C# Program (10-00).mp4 - 14970.42kb
+--1 - 9 - 3.4 Real Number Data Types (11-58).mp4 - 15633.00kb
+--1 - 7 - 3.2 Data Types, Variables, and Constants (10-01).mp4 - 16504.21kb
+--1 - 3 - 1.2 Visual Studio and XNA (10-59).mp4 - 16679.73kb
+--2 - 2 - 4.2 Using a Class Constructor and Properties (13-48).mp4 - 18355.34kb
+--1 - 8 - 3.3 Integer Data Types (13-34).mp4 - 19422.41kb
+--2 - 3 - 4.3 Using a Class Methods (15-04).mp4 - 20958.18kb
+--2 - 1 - 4.1 Intro to Classes and Objects (16-08).mp4 - 22526.99kb
+.doc
+--~$ особена част - Гиргинов.doc - 0.16kb
+--~$ud_Pravilnuk_2015 (2).doc - 0.16kb
+--Образец-анотация.doc - 26.00kb
+--doclad.doc - 27.00kb
+--Stud_Pravilnuk_2015 (2).doc - 90.00kb
+--Izboren_Pravilnuk_2015 (1).doc - 97.50kb
+--Izboren_Pravilnuk_2015.doc - 97.50kb
+--Stud_Pravilnuk_2015 (1).doc - 105.00kb
+--Stud_Pravilnuk_2015.doc - 111.00kb
+--z kriminalistika VSU.doc - 272.00kb
+.docx
+--~$ Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework.docx - 0.16kb
+--~$ Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework.docx - 0.16kb
+--~$ Console-Input-Output-Homework.docx - 0.16kb
+--ПРЕПОРЪЧИТЕЛНА ЛИТЕРАТУРА ПО НАКАЗАТЕЛНО ПРАВО (2).docx - 18.16kb
+--Правилник-на-Студентски-съвет-на-АМВР.docx - 31.78kb
+--4. Advanced-CSharp-Strings-And-Text-Processing-Homework.docx - 121.75kb
+--1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework.docx - 214.23kb
+--2. Advanced-CSharp-MultidimensionalArrays-Sets-Dictionaries-Homework.docx - 280.74kb
+.exe
+--Setup.exe - 54.63kb
+--flux-setup.exe - 583.30kb
+--GitHubSetup.exe - 660.09kb
+--L1800_x64_211UsHomeExportAsiaML_s.exe - 29459.56kb
+--LeagueofLegends_EUNE_Installer_9_15_2014.exe - 30267.30kb
+--Git-2.5.3-64-bit.exe - 31236.78kb
+--jdk-8u60-windows-x64.exe - 190625.09kb
+.mp3
+--Mariah_Carey -Hero.mp3 - 4069.51kb
+--david_cook_-_the_last_goodbye_(_WWW.CONVERT-THAT.COM_).mp3 - 4318.90kb
+--kris_allen_-_live_like_we_re_dying_(_WWW.CONVERT-THAT.COM_).mp3 - 5204.21kb
+--adam_lambert_-_whataya_want_from_me_(_WWW.CONVERT-THAT.COM_).mp3 - 5281.96kb
+--david_cook_-_light_on_(_WWW.CONVERT-THAT.COM_).mp3 - 5320.53kb
+--John Legend-All Of Me (Tiesto Remix) (www.getmp3.cc).mp3 - 11576.72kb
+.zip
+--JavaScript Console.zip - 10.67kb
+--AFLASH2_303.zip - 18.44kb
+--WinFlash_WIN7_32_64_z2303.zip - 354.26kb
+--jquery-ui-1.11.4.custom.zip - 386.94kb
+--CSharp-master.zip - 7589.37kb
+.jpg
+--e0f3594eb532da57be175d929933aa13.jpg - 31.36kb
+--rsz_1dsc_0305_-_copy.jpg - 185.60kb
+--original.jpg - 351.60kb
+--DSC_50481.jpg - 1497.81kb
+.msi
+--node-v0.12.2-x86.msi - 7856.00kb
+--TortoiseSVN-1.6.16.21511-x64-svn-1.6.17.msi - 17704.00kb
+--TortoiseSVN-1.9.1.26747-x64-svn-1.9.1.msi - 18488.00kb
+--TortoiseSVN-1.6.16.21511-win32-svn-1.6.17.msi - 19428.00kb
+.vsix
+--IndentGuide v14.vsix - 168.27kb
+--Lipsum2010.vsix - 2508.12kb
+--JSLintNet.VisualStudio.1.8.1.vsix - 4776.45kb
+.tmp
+--~WRL1352.tmp - 46.50kb
+--~WRL0005.tmp - 88.50kb
+.txt
+--SpaceInvader.txt - 1.04kb
+--README.txt - 5.25kb
+.crx
+--pendule-0.0.3.crx - 52.22kb
+.epub
+--ИНСРУКЦИЯ ЗА ППД.epub - 26.28kb
+.EXE
+--AFLASH2.EXE - 97.14kb
+.info
+--restaurant.info - 1.13kb
+.ini
+--desktop.ini - 0.28kb
+.js
+--jquery-1.11.3.js - 277.73kb
+.png
+--qualtrics background color.png - 39.47kb
+.rar
+--lycan-mm.rar - 32.78kb
+.torrent
+--Desperate.Housewives.S04.iNTERNAL.HDTV.XviD-Zamunda.torrent - 30.65kb

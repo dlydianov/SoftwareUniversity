@@ -1,0 +1,6 @@
+E:\SoftUni\Homeworks\SoftUni-Homeworks\OOP\Defining Classes\Problem 1. Persons\bin\Debug\Problem_1.Persons.exe.config
+E:\SoftUni\Homeworks\SoftUni-Homeworks\OOP\Defining Classes\Problem 1. Persons\bin\Debug\Problem_1.Persons.exe
+E:\SoftUni\Homeworks\SoftUni-Homeworks\OOP\Defining Classes\Problem 1. Persons\bin\Debug\Problem_1.Persons.pdb
+E:\SoftUni\Homeworks\SoftUni-Homeworks\OOP\Defining Classes\Problem 1. Persons\obj\Debug\Problem 1. Persons.csprojResolveAssemblyReference.cache
+E:\SoftUni\Homeworks\SoftUni-Homeworks\OOP\Defining Classes\Problem 1. Persons\obj\Debug\Problem_1.Persons.exe
+E:\SoftUni\Homeworks\SoftUni-Homeworks\OOP\Defining Classes\Problem 1. Persons\obj\Debug\Problem_1.Persons.pdb

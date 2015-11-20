@@ -1,6 +1,0 @@
-E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Strings and Text Processing\bin\Debug\Strings and Text Processing.exe.config
-E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Strings and Text Processing\bin\Debug\Strings and Text Processing.exe
-E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Strings and Text Processing\bin\Debug\Strings and Text Processing.pdb
-E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Strings and Text Processing\obj\Debug\Problem 1. Reverse String.csprojResolveAssemblyReference.cache
-E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Strings and Text Processing\obj\Debug\Strings and Text Processing.exe
-E:\SoftUni\Homeworks\Mine\advanced\Strings and Text Processing\Strings and Text Processing\obj\Debug\Strings and Text Processing.pdb
