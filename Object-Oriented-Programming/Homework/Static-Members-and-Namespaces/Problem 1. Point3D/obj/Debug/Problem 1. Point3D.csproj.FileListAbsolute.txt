@@ -1,0 +1,6 @@
+E:\SoftUni\Object-Oriented-Programming\Homework\Static-Members-and-Namespaces\Problem 1. Point3D\bin\Debug\Problem_1.Point3D.exe.config
+E:\SoftUni\Object-Oriented-Programming\Homework\Static-Members-and-Namespaces\Problem 1. Point3D\bin\Debug\Problem_1.Point3D.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Static-Members-and-Namespaces\Problem 1. Point3D\bin\Debug\Problem_1.Point3D.pdb
+E:\SoftUni\Object-Oriented-Programming\Homework\Static-Members-and-Namespaces\Problem 1. Point3D\obj\Debug\Problem 1. Point3D.csprojResolveAssemblyReference.cache
+E:\SoftUni\Object-Oriented-Programming\Homework\Static-Members-and-Namespaces\Problem 1. Point3D\obj\Debug\Problem_1.Point3D.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Static-Members-and-Namespaces\Problem 1. Point3D\obj\Debug\Problem_1.Point3D.pdb

@@ -1,0 +1,1 @@
+Coordinates: 3, 5, 7Coordinates: 1, 4, 2Coordinates: 3, 5, 7Coordinates: 1, 4, 2Coordinates: 2, 4, 5Coordinates: 3, 5, 7Coordinates: 1, 4, 2Coordinates: 2, 4, 5Coordinates: 1, 2, 4Coordinates: 1, 2, 4Coordinates: 3, 5, 6Coordinates: 1, 2, 4Coordinates: 3, 5, 6Coordinates: 10, 5, 15

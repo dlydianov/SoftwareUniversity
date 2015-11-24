@@ -1,0 +1,1 @@
+E:\SoftUni\Object-Oriented-Programming\Homework\Static-Members-and-Namespaces\Problem 4. Namespaces\bin\Debug\Problem_4.Namespaces.exe.config

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Point3D", "Problem 1. Point3D\Problem 1. Point3D.csproj", "{CD96CBAC-8BDC-4134-B114-D5BFF9DFD34E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Distance Calculator", "Problem 2. Distance Calculator\Problem 2. Distance Calculator.csproj", "{DDC3E229-9AB0-46C3-A05D-F1A899F8D0FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Paths", "Problem 3. Paths\Problem 3. Paths.csproj", "{71D25D62-70FA-4C05-86A0-C94E1F0D2C98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. Namespaces", "Problem 4. Namespaces\Problem 4. Namespaces.csproj", "{8BC3D171-03CF-4AC3-929C-E8814555B399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD96CBAC-8BDC-4134-B114-D5BFF9DFD34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD96CBAC-8BDC-4134-B114-D5BFF9DFD34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD96CBAC-8BDC-4134-B114-D5BFF9DFD34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD96CBAC-8BDC-4134-B114-D5BFF9DFD34E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC3E229-9AB0-46C3-A05D-F1A899F8D0FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC3E229-9AB0-46C3-A05D-F1A899F8D0FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC3E229-9AB0-46C3-A05D-F1A899F8D0FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC3E229-9AB0-46C3-A05D-F1A899F8D0FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D25D62-70FA-4C05-86A0-C94E1F0D2C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D25D62-70FA-4C05-86A0-C94E1F0D2C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D25D62-70FA-4C05-86A0-C94E1F0D2C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D25D62-70FA-4C05-86A0-C94E1F0D2C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC3D171-03CF-4AC3-929C-E8814555B399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC3D171-03CF-4AC3-929C-E8814555B399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC3D171-03CF-4AC3-929C-E8814555B399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC3D171-03CF-4AC3-929C-E8814555B399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

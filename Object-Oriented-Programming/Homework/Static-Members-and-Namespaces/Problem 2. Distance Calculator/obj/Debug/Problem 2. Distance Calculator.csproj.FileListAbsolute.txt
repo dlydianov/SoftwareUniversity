@@ -1,0 +1,8 @@
+E:\SoftUni\Object-Oriented-Programming\Homework\Static-Members-and-Namespaces\Problem 2. Distance Calculator\bin\Debug\Problem_2.Distance_Calculator.exe.config
+E:\SoftUni\Object-Oriented-Programming\Homework\Static-Members-and-Namespaces\Problem 2. Distance Calculator\bin\Debug\Problem_2.Distance_Calculator.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Static-Members-and-Namespaces\Problem 2. Distance Calculator\bin\Debug\Problem_2.Distance_Calculator.pdb
+E:\SoftUni\Object-Oriented-Programming\Homework\Static-Members-and-Namespaces\Problem 2. Distance Calculator\bin\Debug\Problem_1.Point3D.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Static-Members-and-Namespaces\Problem 2. Distance Calculator\bin\Debug\Problem_1.Point3D.pdb
+E:\SoftUni\Object-Oriented-Programming\Homework\Static-Members-and-Namespaces\Problem 2. Distance Calculator\obj\Debug\Problem 2. Distance Calculator.csprojResolveAssemblyReference.cache
+E:\SoftUni\Object-Oriented-Programming\Homework\Static-Members-and-Namespaces\Problem 2. Distance Calculator\obj\Debug\Problem_2.Distance_Calculator.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Static-Members-and-Namespaces\Problem 2. Distance Calculator\obj\Debug\Problem_2.Distance_Calculator.pdb
