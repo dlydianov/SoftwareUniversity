@@ -1,0 +1,6 @@
+E:\SoftUni\Object-Oriented-Programming\Homework\Exception Handling\Problem 1. Square Root\bin\Debug\Problem_1.Square_Root.exe.config
+E:\SoftUni\Object-Oriented-Programming\Homework\Exception Handling\Problem 1. Square Root\bin\Debug\Problem_1.Square_Root.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Exception Handling\Problem 1. Square Root\bin\Debug\Problem_1.Square_Root.pdb
+E:\SoftUni\Object-Oriented-Programming\Homework\Exception Handling\Problem 1. Square Root\obj\Debug\Problem 1. Square Root.csprojResolveAssemblyReference.cache
+E:\SoftUni\Object-Oriented-Programming\Homework\Exception Handling\Problem 1. Square Root\obj\Debug\Problem_1.Square_Root.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Exception Handling\Problem 1. Square Root\obj\Debug\Problem_1.Square_Root.pdb

@@ -1,0 +1,5 @@
+E:\SoftUni\Object-Oriented-Programming\Homework\Exception Handling\Problem 2. Enter Numbers\bin\Debug\Problem_2.Enter_Numbers.exe.config
+E:\SoftUni\Object-Oriented-Programming\Homework\Exception Handling\Problem 2. Enter Numbers\bin\Debug\Problem_2.Enter_Numbers.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Exception Handling\Problem 2. Enter Numbers\bin\Debug\Problem_2.Enter_Numbers.pdb
+E:\SoftUni\Object-Oriented-Programming\Homework\Exception Handling\Problem 2. Enter Numbers\obj\Debug\Problem_2.Enter_Numbers.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Exception Handling\Problem 2. Enter Numbers\obj\Debug\Problem_2.Enter_Numbers.pdb
