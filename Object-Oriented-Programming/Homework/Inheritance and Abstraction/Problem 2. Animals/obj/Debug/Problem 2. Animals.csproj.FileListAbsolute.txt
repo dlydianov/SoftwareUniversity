@@ -1,0 +1,6 @@
+E:\SoftUni\Object-Oriented-Programming\Homework\Inheritance and Abstraction\Problem 2. Animals\bin\Debug\Problem_2.Animals.exe.config
+E:\SoftUni\Object-Oriented-Programming\Homework\Inheritance and Abstraction\Problem 2. Animals\bin\Debug\Problem_2.Animals.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Inheritance and Abstraction\Problem 2. Animals\bin\Debug\Problem_2.Animals.pdb
+E:\SoftUni\Object-Oriented-Programming\Homework\Inheritance and Abstraction\Problem 2. Animals\obj\Debug\Problem_2.Animals.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Inheritance and Abstraction\Problem 2. Animals\obj\Debug\Problem_2.Animals.pdb
+E:\SoftUni\Object-Oriented-Programming\Homework\Inheritance and Abstraction\Problem 2. Animals\obj\Debug\Problem 2. Animals.csprojResolveAssemblyReference.cache

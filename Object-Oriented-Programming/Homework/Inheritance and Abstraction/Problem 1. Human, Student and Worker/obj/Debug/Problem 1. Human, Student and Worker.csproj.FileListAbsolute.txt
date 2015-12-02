@@ -1,0 +1,6 @@
+E:\SoftUni\Object-Oriented-Programming\Homework\Inheritance and Abstraction\Problem 1. Human, Student and Worker\bin\Debug\Problem_1.Human__Student_and_Worker.exe.config
+E:\SoftUni\Object-Oriented-Programming\Homework\Inheritance and Abstraction\Problem 1. Human, Student and Worker\bin\Debug\Problem_1.Human__Student_and_Worker.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Inheritance and Abstraction\Problem 1. Human, Student and Worker\bin\Debug\Problem_1.Human__Student_and_Worker.pdb
+E:\SoftUni\Object-Oriented-Programming\Homework\Inheritance and Abstraction\Problem 1. Human, Student and Worker\obj\Debug\Problem 1. Human, Student and Worker.csprojResolveAssemblyReference.cache
+E:\SoftUni\Object-Oriented-Programming\Homework\Inheritance and Abstraction\Problem 1. Human, Student and Worker\obj\Debug\Problem_1.Human__Student_and_Worker.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Inheritance and Abstraction\Problem 1. Human, Student and Worker\obj\Debug\Problem_1.Human__Student_and_Worker.pdb

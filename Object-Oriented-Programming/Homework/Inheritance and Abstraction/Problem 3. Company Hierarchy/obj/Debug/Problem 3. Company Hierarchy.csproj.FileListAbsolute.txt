@@ -1,0 +1,6 @@
+E:\SoftUni\Object-Oriented-Programming\Homework\Inheritance and Abstraction\Problem 3. Company Hierarchy\bin\Debug\Problem_3.Company_Hierarchy.exe.config
+E:\SoftUni\Object-Oriented-Programming\Homework\Inheritance and Abstraction\Problem 3. Company Hierarchy\bin\Debug\Problem_3.Company_Hierarchy.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Inheritance and Abstraction\Problem 3. Company Hierarchy\bin\Debug\Problem_3.Company_Hierarchy.pdb
+E:\SoftUni\Object-Oriented-Programming\Homework\Inheritance and Abstraction\Problem 3. Company Hierarchy\obj\Debug\Problem 3. Company Hierarchy.csprojResolveAssemblyReference.cache
+E:\SoftUni\Object-Oriented-Programming\Homework\Inheritance and Abstraction\Problem 3. Company Hierarchy\obj\Debug\Problem_3.Company_Hierarchy.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Inheritance and Abstraction\Problem 3. Company Hierarchy\obj\Debug\Problem_3.Company_Hierarchy.pdb
