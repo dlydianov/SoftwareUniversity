@@ -1,0 +1,5 @@
+E:\SoftUni\Object-Oriented-Programming\Homework\Encapsulation and Polymorphism\TheSlum\bin\Debug\TheSlum.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Encapsulation and Polymorphism\TheSlum\bin\Debug\TheSlum.pdb
+E:\SoftUni\Object-Oriented-Programming\Homework\Encapsulation and Polymorphism\TheSlum\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache
+E:\SoftUni\Object-Oriented-Programming\Homework\Encapsulation and Polymorphism\TheSlum\obj\Debug\TheSlum.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Encapsulation and Polymorphism\TheSlum\obj\Debug\TheSlum.pdb

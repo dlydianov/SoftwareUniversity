@@ -1,0 +1,6 @@
+E:\SoftUni\Object-Oriented-Programming\Homework\Encapsulation and Polymorphism\Problem 1. Shapes\bin\Debug\Problem_1.Shapes.exe.config
+E:\SoftUni\Object-Oriented-Programming\Homework\Encapsulation and Polymorphism\Problem 1. Shapes\bin\Debug\Problem_1.Shapes.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Encapsulation and Polymorphism\Problem 1. Shapes\bin\Debug\Problem_1.Shapes.pdb
+E:\SoftUni\Object-Oriented-Programming\Homework\Encapsulation and Polymorphism\Problem 1. Shapes\obj\Debug\Problem_1.Shapes.exe
+E:\SoftUni\Object-Oriented-Programming\Homework\Encapsulation and Polymorphism\Problem 1. Shapes\obj\Debug\Problem_1.Shapes.pdb
+E:\SoftUni\Object-Oriented-Programming\Homework\Encapsulation and Polymorphism\Problem 1. Shapes\obj\Debug\Problem 1. Shapes.csprojResolveAssemblyReference.cache
