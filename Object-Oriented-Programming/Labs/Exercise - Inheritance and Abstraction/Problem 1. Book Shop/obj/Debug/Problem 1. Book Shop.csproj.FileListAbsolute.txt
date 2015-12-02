@@ -1,0 +1,6 @@
+E:\SoftUni\Object-Oriented-Programming\Labs\Exercise - Inheritance and Abstraction\Problem 1. Book Shop\bin\Debug\Problem_1.Book_Shop.exe.config
+E:\SoftUni\Object-Oriented-Programming\Labs\Exercise - Inheritance and Abstraction\Problem 1. Book Shop\bin\Debug\Problem_1.Book_Shop.exe
+E:\SoftUni\Object-Oriented-Programming\Labs\Exercise - Inheritance and Abstraction\Problem 1. Book Shop\bin\Debug\Problem_1.Book_Shop.pdb
+E:\SoftUni\Object-Oriented-Programming\Labs\Exercise - Inheritance and Abstraction\Problem 1. Book Shop\obj\Debug\Problem 1. Book Shop.csprojResolveAssemblyReference.cache
+E:\SoftUni\Object-Oriented-Programming\Labs\Exercise - Inheritance and Abstraction\Problem 1. Book Shop\obj\Debug\Problem_1.Book_Shop.exe
+E:\SoftUni\Object-Oriented-Programming\Labs\Exercise - Inheritance and Abstraction\Problem 1. Book Shop\obj\Debug\Problem_1.Book_Shop.pdb
